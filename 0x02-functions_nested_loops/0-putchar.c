@@ -4,11 +4,12 @@
 /**
  * main - Entry point
  *
+ *Description: A program that prints _putchar and new line
+ *
  * Return Always 0 (success)
  */
 
 int main(void)
-
 {
 	char c[8] = "_putchar";
 	int i = 0;
@@ -18,7 +19,6 @@ int main(void)
 		_putchar(c[i]);
 		i++;
 	}
-	_putchar('\n');
-	return (0);
-
+_putchar('\n');
+return (0);
 }
