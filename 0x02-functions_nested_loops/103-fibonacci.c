@@ -3,7 +3,8 @@
 /**
  * main - main block
  *
- * Description: computes and prints even  number < 4,000,000, 5 below 1024 (excluded), followed by a new line
+ * Description: computes and prints even  number < 4,000,000
+ * 5 below 1024 (excluded), followed by a new line
  *
  * Return: 0 (success)
  */
